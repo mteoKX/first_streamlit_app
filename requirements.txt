@@ -1,3 +1,4 @@
 # requirements.txt
 snowflake-connector-python
 urllib3==1.26.0
+streamlit==1.25.0 #streamlit 1.27 has uncompatible urllib
